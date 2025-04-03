@@ -17,3 +17,4 @@ The dataset belongs to "The Bread Basket" a bakery located in Edinburgh. The dat
 * power bi
 * excel
 * sql
+* Spreadsheet
