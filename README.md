@@ -1,5 +1,7 @@
 ## Bakery-Sales-Dataset
-"The Bread Basket" a bakery located in Edinburgh
+"The Bread Basket" a bakery located in Edinburgh.
+
+## Context
 We live in the era of e-commerce and digital marketing. We have even small scale businesses going online as the opportunities are endless. Since a huge chunk of the people who have access to internet is switching to online shopping, large retailers are actively searching for ways to increase their profit. Market Basket analysis is one such key techniques used by large retailers to to increase sales by understanding the customers' purchasing behavior & patterns. Market basket analysis examines collections of items to find relationships between items that go together within the business context.
 
 ## Content
