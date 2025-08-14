@@ -24,5 +24,5 @@ The dataset belongs to "The Bread Basket" a bakery located in Edinburgh. The dat
 
 
 ## Output:
-
+![Alt text](output.PNG)
 
